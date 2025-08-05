@@ -14,7 +14,7 @@
 <!-------------------------------- Intro -------------------------------->
 
 
-<img align="right" src="./assets/aGlorinha.gif" width="600">
+<img align="right" src="./assets/aGlorinha.gif" width="500">
 
 ### Future data scientist in training - building one project at a time  <img src="./assets/Quest_start_icon.png" width="15" />
 
@@ -23,6 +23,7 @@
  <img src="./assets/Skills_icon.png" width="20" />&nbsp;&nbsp;&nbsp;I enjoy solving real-world problems using data and turning insights into action  
 
  <img src="./assets/Search.png" width="12" />&nbsp;&nbsp;&nbsp;Naturally curious - I like to understand how things work  
+
 
 <br>
 

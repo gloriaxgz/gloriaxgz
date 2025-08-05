@@ -41,31 +41,31 @@
 
 
 <p align="center">
- <img src="./assets/python.gif" width="100"/> <br>
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="60"/>
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60"/>&nbsp;
+ <img src="./assets/python2.gif" width="120"/> <br>
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>&nbsp&nbsp;&nbsp;  
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="60"/>&nbsp&nbsp;&nbsp;  
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60"/>&nbsp;&nbsp&nbsp;&nbsp;  
   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="75"/><br>
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="60"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="60"/>
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="55"/>
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="70"/><br>               
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="60"/>&nbsp&nbsp;&nbsp;  
+  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="60"/>&nbsp&nbsp;&nbsp;  
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="55"/>&nbsp&nbsp;&nbsp;  
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="70"/><br>    &nbsp&nbsp;&nbsp;             
 </p>
 <br>
 <br>
 <!-------------------------------- another languages -------------------------------->
 <p align="center"><img src="./assets/anotherlang.gif" width="280"/><br>
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50"/>
-  <img  src="./assets/c.png" width="45"/> 
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" width="45" />
-</p>
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="80"/>&nbsp&nbsp; 
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" width="60" /> &nbsp&nbsp; 
+  <img  src="./assets/c.png" width="60"/> 
+ 
 
 <br>
 <br>
 <!-------------------------------- databses -------------------------------->
 <p align="center"> 
 <img src="./assets/databases.gif" width="140"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"  width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"  width="75"/>&nbsp&nbsp;&nbsp&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="85"/>
 </p>
 
@@ -75,8 +75,8 @@
 <!-------------------------------- cloud -------------------------------->
 <p align="center">
 <img src="./assets/cloud.gif" width="210"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="65"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="65"/>&nbsp&nbsp;&nbsp&nbsp;  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="65"/>&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="65"/>
 
 <p> 
 <br>
@@ -84,7 +84,10 @@
 <!-------------------------------- devtools -------------------------------->
 <p align="center">
 <img src="./assets/devtools.gif" width="130"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60"/>&nbsp;&nbsp;&nbsp; &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="60"/>  
 <p> 
+
+<img src="./assets/rainbow.gif" width="200%" height="25"/>
+
 

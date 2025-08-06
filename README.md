@@ -1,7 +1,7 @@
 <!-------------------------------- Header -------------------------------->
 
 <p align="center">
-  <a href="https://github.com/seu-usuario" target="_blank">
+  <a href="https://github.com/gloriaxgz" target="_blank">
     <img src="./assets/full.gif" width="40%" />
   </a>
 </p>
@@ -31,8 +31,8 @@
 
 <!-----------------skills-------------------->
 <p align="center">
-  <a href="https://github.com/seu-usuario" target="_blank">
-    <img src="./assets/skills.gif" width="120" />
+  <a href="https://github.com/gloriaxgz" target="_blank">
+    <img src="./assets/skills.gif" width="100" />
   </a>
 </p>
 
@@ -41,53 +41,79 @@
 
 
 <p align="center">
- <img src="./assets/python2.gif" width="120"/> <br>
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>&nbsp&nbsp;&nbsp;  
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="60"/>&nbsp&nbsp;&nbsp;  
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60"/>&nbsp;&nbsp&nbsp;&nbsp;  
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="75"/><br>
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="60"/>&nbsp&nbsp;&nbsp;  
-  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="60"/>&nbsp&nbsp;&nbsp;  
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="55"/>&nbsp&nbsp;&nbsp;  
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="70"/><br>    &nbsp&nbsp;&nbsp;             
+ <img src="./assets/python2.gif" width="100"/> <br>
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>&nbsp&nbsp;&nbsp;  
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50"/>&nbsp&nbsp;&nbsp;  
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50"/>&nbsp;&nbsp&nbsp;&nbsp;  
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="65"/><br>
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50"/>&nbsp&nbsp;&nbsp;  
+  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="50"/>&nbsp&nbsp;&nbsp;  
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="45"/>&nbsp&nbsp;&nbsp;  
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="60"/><br>    &nbsp&nbsp;&nbsp;             
 </p>
-<br>
-<br>
+
 <!-------------------------------- another languages -------------------------------->
-<p align="center"><img src="./assets/anotherlang.gif" width="280"/><br>
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="80"/>&nbsp&nbsp; 
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" width="60" /> &nbsp&nbsp; 
-  <img  src="./assets/c.png" width="60"/> 
+<p align="center"><img src="./assets/anotherlang.gif" width="260"/><br>
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60"/>&nbsp&nbsp; 
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" width="43" /> &nbsp&nbsp; 
+  <img  src="./assets/c.png" width="40"/> 
  
 
-<br>
-<br>
+
+
 <!-------------------------------- databses -------------------------------->
 <p align="center"> 
 <img src="./assets/databases.gif" width="140"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"  width="75"/>&nbsp&nbsp;&nbsp&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="85"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"  width="60"/>&nbsp&nbsp;&nbsp&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="75"/>
 </p>
 
-<br>
-<br>
+
+
 
 <!-------------------------------- cloud -------------------------------->
 <p align="center">
 <img src="./assets/cloud.gif" width="210"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="65"/>&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="55"/>&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="55"/>
 
 <p> 
-<br>
-<br>
+
+
 <!-------------------------------- devtools -------------------------------->
 <p align="center">
 <img src="./assets/devtools.gif" width="130"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60"/>&nbsp;&nbsp;&nbsp; &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="60"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50"/>&nbsp;&nbsp;&nbsp; &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50"/>  
 <p> 
 
 <img src="./assets/rainbow.gif" width="200%" height="25"/>
+<br>
+<!-----------------contact-------------------->
+<p align="center">
+  <img src="./assets/dung.png" width="25"/>&nbsp; 
+  <a href="https://github.com/gloriaxgz" target="_blank">
+    <img src="./assets/contact.gif" width="250" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gloriaxgz/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" />
+  </a> &nbsp;&nbsp; &nbsp; 
+   <img src="./assets/email.png" width="40" />
+   <img src="./assets/email.gif" width="200" />
+
+<p> 
 
 
+<img src="./assets/rainbow.gif" width="200%" height="25"/>
+<br>
+<!-----------------contact-------------------->
+<p align="center">
+  <img src="./assets/arrow.png" width="25"/>&nbsp; 
+  <a href="https://github.com/gloriaxgz" target="_blank">
+    <img src="./assets/explore.gif" width="350" />
+  </a>
+  &nbsp; <img src="./assets/arrow.png" width="25"/>&nbsp; 
+</p>
